@@ -1,0 +1,26 @@
+@media only screen and (max-width: 667px) {
+  
+    .our_footer_section{
+        flex-direction: column;
+        /* align-items: center; */
+        text-align: center;
+    }
+
+    .our_productions,.about_headding,.travels_headding,.more_link_headding{
+        padding-bottom: 9px;
+        /* font-size: 13px; */
+    }
+
+    .footer_content{
+        padding-bottom: 20px;
+    }
+
+    .travels_headding,.more_link_headding{
+        padding-top: 15px;
+    }
+
+    li {
+        list-style: none;
+        padding-bottom: 5px;
+    }
+  }
